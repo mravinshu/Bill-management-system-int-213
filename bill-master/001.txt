@@ -1,0 +1,13 @@
+	  'BILL  				 Dairy & Milk Farm Bill 
+				  Dispatch order slip 
+
+ Serial No. = 001
+ Party Name = Sharanya and Ravinshu						Date:- 2020-11-01 
+ Vehicle Number = 16121605
+
+ Nutri rich = 1
+
+ Full Fat = 1
+
+ Curd = 1
+
